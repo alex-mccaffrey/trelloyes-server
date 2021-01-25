@@ -1,5 +1,5 @@
 {
-  "name": "treloyes-server",
+  "name": "trelloyes-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -20,6 +20,7 @@
     "helmet": "^4.4.1",
     "morgan": "^1.10.0",
     "npm-watch": "^0.7.0",
+    "uuid": "^8.3.2",
     "winston": "^3.3.3"
   },
   "devDependencies": {
